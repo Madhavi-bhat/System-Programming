@@ -126,8 +126,8 @@ print("------------------------------------------------------------")
 mail_content = "PFA Files which contains list of Files in the " + sys.argv[1] + " directory and the File with max Size"
 COMMASPACE = ', '
 sender_address = 'madhavibhat2@gmail.com'
-sender_password = 'Feb@2019'
-recipients = ["jamunakn5@gmail.com" , "madhavibhat2@gmail.com"]
+sender_password = 'xxxxx'
+recipients = ["madhavibhat2@gmail.com"]
 
 message = MIMEMultipart()
 message["From"] = sender_address
